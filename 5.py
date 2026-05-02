@@ -1,0 +1,5 @@
+isminiz=input('isim giriniz')
+dogumtarihi=int(input('dogum tarihinizi giriniz'))
+kaçyaşında=(dogumtarihi-2023)
+print(isminiz)
+print(dogumtarihi-2023)
