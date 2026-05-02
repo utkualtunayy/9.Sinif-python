@@ -1,0 +1,6 @@
+not1=int(input("Birinci notu giriniz"))
+not2=int(input("İkinci notu giriniz"))
+not3=int(input("Üçüncü notu giriniz"))
+not4=int(input("Dördüncü notu giriniz"))
+ortalama=(not1+not2+not3+not4)/4
+print(ortalama)
